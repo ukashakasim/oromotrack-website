@@ -1,0 +1,19 @@
+.body{
+    padding: 1%;
+    margin: 1%;
+}
+.warpper {
+    margin: 0 auto;
+    width: 1000px;
+}
+header {
+    background-color: #00ffff; /*aqua*/
+}
+.img-flywheel {
+width: 1000px;
+height: 600px;
+background-image: url(img/flywheel.jpg);
+background-repeat: no-repeat;
+background-size: 100%;
+background-position: center;
+}
